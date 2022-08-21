@@ -4,6 +4,6 @@ It is the 4th project in FCC Responsive Website Design Module
 
 You can see this project live at the following URL:
 
-https://dthompsondev.github.io/technical-documentation-page/
+https://davethompson-dev.github.io/technical-documentation-page/
 
 Enjoy!
